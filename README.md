@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_kunal_khare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kunal_khare_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lhttps://inkedin.com/in/kunal-khare-6a712021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lhttps://inkedin.com/in/kunal-khare-6a712021b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-khare-6a712021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-khare-6a712021b" height="30" width="40" /></a>
 <a href="https://instagram.com/rimor30exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimor30exe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2021ad64ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2021ad64ku" height="30" width="40" /></a>
 </p>
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-khare&show_icons=true&locale=en" alt="kunal-khare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-khare&" alt="kunal-khare" /></p>
+
